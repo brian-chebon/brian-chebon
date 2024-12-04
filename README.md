@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brian-chebon&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=brian-chebon&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
