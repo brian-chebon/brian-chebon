@@ -16,7 +16,19 @@
 
 [![Brian Chebon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Brian%20Chebon%27s%20GitHub%20Stats)](https://github.com/brian-chebon)
 
-Total Stars: 31 | Total Commits (2024): 257 | Total PRs: 22 | Grade: B-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/brian-chebon?style=for-the-badge&label=Stars&color=6A5ACD" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/brian-chebon?style=for-the-badge&label=Followers&color=6A5ACD" alt="Followers"/>
+  <img src="https://img.shields.io/github/commit-activity/m/brian-chebon/brian-chebon?style=for-the-badge&label=Monthly%20Commits&color=6A5ACD" alt="Commits"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues-pr/brian-chebon/brian-chebon?style=for-the-badge&label=Pull%20Requests&color=6A5ACD" alt="Pull Requests"/>
+  <img src="https://img.shields.io/github/last-commit/brian-chebon/brian-chebon?style=for-the-badge&label=Last%20Commit&color=6A5ACD" alt="Last Commit"/>
+  <img src="https://komarev.com/ghpvc/?username=brian-chebon&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brian-chebon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -61,4 +73,10 @@ Total Stars: 31 | Total Commits (2024): 257 | Total PRs: 22 | Grade: B-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=brian-chebon&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD)
+  
 </div>
