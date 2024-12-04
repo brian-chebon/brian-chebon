@@ -57,9 +57,8 @@ Total Stars: 31 | Total Commits (2024): 257 | Total PRs: 22 | Grade: B-
 
 ---
 
-<details>
-<summary>📈 Most Used Languages</summary>
+## 📈 Most Used Languages
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-</details>
