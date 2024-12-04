@@ -14,21 +14,19 @@
 
 <div align="center">
 
-[![Brian Chebon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Brian%20Chebon%27s%20GitHub%20Stats)](https://github.com/brian-chebon)
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/brian-chebon?style=for-the-badge&label=Stars&color=6A5ACD" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/brian-chebon?style=for-the-badge&label=Followers&color=6A5ACD" alt="Followers"/>
-  <img src="https://img.shields.io/github/commit-activity/m/brian-chebon/brian-chebon?style=for-the-badge&label=Monthly%20Commits&color=6A5ACD" alt="Commits"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=gray&label=STARS&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/brian-chebon&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/brian-chebon?label=FOLLOWERS&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/github/commit-activity/m/brian-chebon/brian-chebon?label=MONTHLY%20COMMITS&style=flat-square" alt="Monthly Commits"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues-pr/brian-chebon/brian-chebon?style=for-the-badge&label=Pull%20Requests&color=6A5ACD" alt="Pull Requests"/>
-  <img src="https://img.shields.io/github/last-commit/brian-chebon/brian-chebon?style=for-the-badge&label=Last%20Commit&color=6A5ACD" alt="Last Commit"/>
-  <img src="https://komarev.com/ghpvc/?username=brian-chebon&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/issues-pr/brian-chebon/brian-chebon?label=PULL%20REQUESTS&style=flat-square" alt="Pull Requests"/>
+  <img src="https://img.shields.io/github/last-commit/brian-chebon/brian-chebon?label=LAST%20COMMIT&style=flat-square" alt="Last Commit"/>
+  <img src="https://komarev.com/ghpvc/?username=brian-chebon&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brian-chebon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brian-chebon&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,10 +71,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=brian-chebon&theme=github&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD)
-  
 </div>
