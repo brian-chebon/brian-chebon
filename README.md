@@ -40,6 +40,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-chebon&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD" alt="Activity Graph" />
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -84,12 +88,6 @@
 
 <div align="center">
   <h3>💼 Open for remote backend development opportunities</h3>
-  
-  <details>
-    <summary>📈 Coding Activity</summary>
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-chebon&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD" alt="Activity Graph" />
-  </details>
 </div>
 
 ---
