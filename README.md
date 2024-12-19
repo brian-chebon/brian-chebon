@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;API+%26+Microservices+Specialist;Laravel+%7C+Dart+%7C+Golang;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;API+%26+Microservices+Specialist;Laravel+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/brian-chebon">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Brian%20Chebon%27s%20GitHub%20Stats" alt="Brian Chebon's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Brian's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
   </a>
 </div>
 
@@ -36,12 +36,12 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brian-chebon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=brian-chebon&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-chebon&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-chebon&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD" alt="Activity Graph">
 </div>
 
 ## 🛠️ Tech Stack
@@ -93,5 +93,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
 </div>
