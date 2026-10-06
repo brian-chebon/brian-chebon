@@ -1,97 +1,72 @@
-# 👨‍💻 Brian Chebon
+<h1 align="center">Hi, I'm Brian Chebon 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Backend+Developer;API+%26+Microservices+Specialist;Laravel+Enthusiast" alt="Typing SVG">
-  </a>
-</p>
-
-<div align="center">
-  ⚡ Building high-performance APIs and microservices
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brian-chebon.github.io)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianchebon@gmail.com)
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/brian-chebon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Brian's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/brian-chebon?style=for-the-badge&label=Stars&color=6A5ACD" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/brian-chebon?style=for-the-badge&label=Followers&color=6A5ACD" alt="Followers"/>
-  <img src="https://img.shields.io/github/commit-activity/m/brian-chebon/brian-chebon?style=for-the-badge&label=Monthly%20Commits&color=6A5ACD" alt="Commits"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=560&lines=Backend+Developer+%E2%80%94+Dart+%26+PHP%2FLaravel;OpenFeature+Dart+SDK+contributor;Flutter+%C2%B7+Firebase+%C2%B7+Supabase+%C2%B7+GCP" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues-pr/brian-chebon/brian-chebon?style=for-the-badge&label=Pull%20Requests&color=6A5ACD" alt="Pull Requests"/>
-  <img src="https://img.shields.io/github/last-commit/brian-chebon/brian-chebon?style=for-the-badge&label=Last%20Commit&color=6A5ACD" alt="Last Commit"/>
-  <img src="https://komarev.com/ghpvc/?username=brian-chebon&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/brianchebon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:brianlchebon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/developerbrian"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://linktr.ee/brianchebon"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+<a href="https://pub.dev/packages/otel_logging_dart"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brian-chebon&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  </a>
-</div>
+## About me
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-chebon&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=628FDA&line=6A5ACD" alt="Activity Graph">
-</div>
+- 🔭 Dart backend developer at **VenturSeed (Aortem)**, working on IntelliToggle (a multi-tenant feature-flag platform), Dart SDKs and the DartStream backend framework.
+- 🌱 Regular contributor to the official **[OpenFeature Dart SDK](https://github.com/open-feature/dart-sdk)**: hooks and evaluation context, provider extensibility, OpenTelemetry hooks, the Tracking API and Multi-Provider support.
+- 📦 Author of **[otel_logging_dart](https://pub.dev/packages/otel_logging_dart)**, which ships Dart and Flutter logs to OpenTelemetry over OTLP/HTTP.
+- 🏛️ Built field-data apps for county government in Kenya with Flutter, Firebase and Supabase.
+- 📍 Nairobi, Kenya (EAT, UTC+3). 💼 Open to remote backend roles.
 
-## 🛠️ Tech Stack
+## Featured projects
 
-### Languages & Frameworks
-<div align="center">
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [otel_logging_dart](https://github.com/brian-chebon/otel_logging_dart) | OpenTelemetry log exporter for Dart and Flutter, published on [pub.dev](https://pub.dev/packages/otel_logging_dart) | Dart |
+| [OpenFeature Dart SDK](https://github.com/open-feature/dart-sdk) | The official OpenFeature server SDK for Dart (contributor) | Dart |
+| [dartstream-sample-app](https://github.com/brian-chebon/dartstream-sample-app) | End-to-end client for the DartStream SaaS backend: auth, platform, reactive and persistence services · [live](https://brian-chebon.web.app) | Flutter, Dart |
+| [baringo-staff-monitor](https://github.com/brian-chebon/baringo-staff-monitor) | Field-activity tracking for Baringo County Government: GPS-verified visits, photo reports, admin dashboards · [live](https://bcg-staff-app.web.app) | Flutter, Firebase |
+| [tugen-app](https://github.com/brian-chebon/tugen-app) | Tugen (Kalenjin) language-learning app with spaced repetition and offline sync | Flutter, Riverpod, Drift, Supabase |
+| [jet_strike_dartstream](https://github.com/brian-chebon/jet_strike_dartstream) | Side-scrolling jet shooter rebuilt in Flutter and Flame, with DartStream feature flags and telemetry | Flutter, Flame, Dart |
+| [DigiFarm-Advisor-](https://github.com/brian-chebon/DigiFarm-Advisor-) | Marketplace and advisory prototype for Kenyan smallholder farmers, with M-PESA STK Push and USSD | Flutter, Dart Frog, Supabase |
+| [Transaction-Processing-System](https://github.com/brian-chebon/Transaction-Processing-System) | Transactions API with balance tracking, concurrency handling and tests | Laravel 11, Sanctum |
 
-### Database & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</div>
+## Tech stack
 
-### Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GITLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
-## 🤝 Connect With Me
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brianchebon">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/developerbrian">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/brianchebon">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-</div>
+## GitHub stats
 
-<div align="center">
-  <h3>💼 Open for remote backend development opportunities</h3>
-</div>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=brian-chebon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-chebon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss,blade" alt="Top languages" />
+</p>
 
----
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=brian-chebon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
