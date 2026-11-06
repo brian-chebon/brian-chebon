@@ -15,6 +15,7 @@
 ## About me
 
 - 🔭 Dart backend developer at **VenturSeed (Aortem)**, working on IntelliToggle (a multi-tenant feature-flag platform), Dart SDKs and the DartStream backend framework.
+- 🛒 Co-building **Zooky** with a partner: a Laravel 12 + Next.js multi-vendor marketplace for Kenya with M-PESA, Paystack and Stripe payments, escrow, vendor payouts, pickup stations and rider delivery. Private until its Q1 2027 launch.
 - 🌱 Regular contributor to the official **[OpenFeature Dart SDK](https://github.com/open-feature/dart-sdk)**: hooks and evaluation context, provider extensibility, OpenTelemetry hooks, the Tracking API and Multi-Provider support.
 - 📦 Author of **[otel_logging_dart](https://pub.dev/packages/otel_logging_dart)**, which ships Dart and Flutter logs to OpenTelemetry over OTLP/HTTP.
 - 🏛️ Built field-data apps for county government in Kenya with Flutter, Firebase and Supabase.
@@ -24,6 +25,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Zooky** (private, launching Q1 2027) | Multi-vendor marketplace for Kenya, co-built in a two-person team: M-PESA, Paystack and Stripe payments, escrow and vendor payouts, pickup stations and rider delivery, about 3,500 PHPUnit tests | Laravel 12, Next.js 16, TypeScript, Elasticsearch, Redis |
+| [Transaction-Processing-System](https://github.com/brian-chebon/Transaction-Processing-System) | Transactions API with balance tracking, concurrency handling and tests | Laravel 11, Sanctum |
 | [otel_logging_dart](https://github.com/brian-chebon/otel_logging_dart) | OpenTelemetry log exporter for Dart and Flutter, published on [pub.dev](https://pub.dev/packages/otel_logging_dart) | Dart |
 | [OpenFeature Dart SDK](https://github.com/open-feature/dart-sdk) | The official OpenFeature server SDK for Dart (contributor) | Dart |
 | [dartstream-sample-app](https://github.com/brian-chebon/dartstream-sample-app) | End-to-end client for the DartStream SaaS backend: auth, platform, reactive and persistence services · [live](https://brian-chebon.web.app) | Flutter, Dart |
@@ -31,7 +34,6 @@
 | [tugen-app](https://github.com/brian-chebon/tugen-app) | Tugen (Kalenjin) language-learning app with spaced repetition and offline sync | Flutter, Riverpod, Drift, Supabase |
 | [jet_strike_dartstream](https://github.com/brian-chebon/jet_strike_dartstream) | Side-scrolling jet shooter rebuilt in Flutter and Flame, with DartStream feature flags and telemetry | Flutter, Flame, Dart |
 | [DigiFarm-Advisor-](https://github.com/brian-chebon/DigiFarm-Advisor-) | Marketplace and advisory prototype for Kenyan smallholder farmers, with M-PESA STK Push and USSD | Flutter, Dart Frog, Supabase |
-| [Transaction-Processing-System](https://github.com/brian-chebon/Transaction-Processing-System) | Transactions API with balance tracking, concurrency handling and tests | Laravel 11, Sanctum |
 
 ## Tech stack
 
@@ -44,11 +46,14 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
